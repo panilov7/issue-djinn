@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "issue-djinn": {
+      "type": "http",
+      "url": "http://localhost:5444/mcp"
+    }
+  }
+}
